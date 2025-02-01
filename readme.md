@@ -20,7 +20,7 @@ Este projeto é uma aplicação simples de "Amigo Secreto" que permite ao usuár
 
 1. Clone o repositório para sua máquina local:
    git clone https://github.com/Natanael135/amigo-secreto.git
-   
+
 2. Abra o arquivo index.html em seu navegador.
 
 3. Adicione os nomes dos seus amigos na caixa de texto e clique em "Adicionar".
@@ -29,6 +29,6 @@ Este projeto é uma aplicação simples de "Amigo Secreto" que permite ao usuár
 
 ## Funcionalidades: 
 
-Adicionar Amigo: Adiciona o nome de um amigo à lista de amigos.
-Sortear Amigo: Sorteia aleatoriamente um nome da lista e exibe o resultado.
-Lista de Amigos: Exibe todos os nomes que foram adicionados até o momento.
+- Adicionar Amigo: Adiciona o nome de um amigo à lista de amigos.
+- Sortear Amigo: Sorteia aleatoriamente um nome da lista e exibe o resultado.
+- Lista de Amigos: Exibe todos os nomes que foram adicionados até o momento.
